@@ -1,0 +1,39 @@
+body {
+    font-family:'Arial',sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+button {
+    color: red;
+
+    
+}
+h2 {
+    color:#333
+}
+
+.project {
+    border: 1px solid #333;
+    padding: 10px;
+    margin-bottom: 10p[x];
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+}
+
